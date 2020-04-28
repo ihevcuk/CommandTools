@@ -26,3 +26,88 @@
 1581944527492:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2009.csv 192.168.113.134 7600 test atp_matches test test
 1581944533043:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2008.csv 192.168.113.134 7600 test atp_matches test test
 1581944538298:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2007.csv 192.168.113.134 7600 test atp_matches test test
+1581953840781:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2020.csv 192.168.113.134 7600 test atp_matches test test
+1581953847037:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2019.csv 192.168.113.134 7600 test atp_matches test test
+1581953852765:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2018.csv 192.168.113.134 7600 test atp_matches test test
+1581953858381:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2017.csv 192.168.113.134 7600 test atp_matches test test
+1581953863694:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2016.csv 192.168.113.134 7600 test atp_matches test test
+1581953869101:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2015.csv 192.168.113.134 7600 test atp_matches test test
+1581953874300:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2014.csv 192.168.113.134 7600 test atp_matches test test
+1581953879388:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2013.csv 192.168.113.134 7600 test atp_matches test test
+1581953884653:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2012.csv 192.168.113.134 7600 test atp_matches test test
+1581953889773:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2011.csv 192.168.113.134 7600 test atp_matches test test
+1581953905710:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2010.csv 192.168.113.134 7600 test atp_matches test test
+1581953910829:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2009.csv 192.168.113.134 7600 test atp_matches test test
+1581953915741:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2008.csv 192.168.113.134 7600 test atp_matches test test
+1581953920701:load C:\\\\Users\\\\ihevcuk\\\\Documents\\\\atp_matches_2007.csv 192.168.113.134 7600 test atp_matches test test
+1582112236866:export features.csv 192.168.113.134 port 5432 test import.features tes test
+1582112273273:export features.csv 192.168.113.134 port 5432 test import.features test test
+1582112305289:export features.csv 192.168.113.134 5432 test import.features test test
+1582112315521:stacktrace
+1582112422969:export features.csv 192.168.113.134 5432 test import.features test-igor test
+1582112453687:export features.csv 192.168.113.134 5432 test import.features test test
+1582112457009:stacktrace
+1582112508743:export "features.csv" 192.168.113.134 5432 test "import.features" test test
+1582112513459:stacktrace
+1582112562265:export features.csv 192.168.113.134 5432 test features test test
+1582112565955:stacktrace
+1582112674806:export features 192.168.113.134 5432 test features test test
+1582112678260:stacktrace
+1582112779507:export features.csv 192.168.113.134 5432 test import.features test test
+1582112823118:export features.csv 192.168.113.134 7600 test import.features test test
+1582112827589:stacktrace
+1582112864459:export features.csv 192.168.113.134 5432 test import.features test test
+1582112867494:stacktrace
+1582112882042:export features.csv 192.168.113.134 7600 test import.features test test
+1582112885797:stacktrace
+1582112957329:export features.csv 192.168.113.134 7600 test import.features test test
+1582115628401:stats igor
+1582115661759:stats sdfg
+1582115976306:stats
+1582115980462:stats sdf
+1582116042644:stats sdfgdfg
+1582116075237:stats sdfsdg
+1582116727495:stats sdf
+1582117488819:stats sddsfg
+1582117523138:stats sdfsdg
+1582117750843:stats sdf
+1582120435111:stats djokovic
+1582120474671:stats federed
+1582120485789:stats karlo
+1582120944777:stats sovic
+1582553400481:load C:\\gatling-w-kafka-test-master\\gatling-charts-highcharts-bundle-3.0.3\\user-files\\simulations\\legrad_2018-2020_test.csv 192.168.113.134 7600 test iot_month test test
+1582553405582:stacktrace
+1582553432816:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\simulations\\\\legrad_2018-2020_test.csv 192.168.113.134 7600 test iot_month test test
+1582553818231:export iotdev.csv 192.168.113.134 7600 test import.iot_month test test
+1582630353027:export C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\iodev_month.csv 192.168.113.134 7600 test import.iot_month test test
+1583827736791:load
+1583827744605:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 import.legrad test test
+1583827777349:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583827783987:stacktrace
+1583827802284:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 legrad test test
+1583827815567:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test legrad test test
+1583827820524:stacktrace
+1583827848578:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583827851388:stacktrace
+1583827915110:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583827925151:exit
+1583828022937:load
+1583828093332:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583828112555:stacktrace
+1583828172135:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583828230601:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test legrad test test
+1583828304259:load C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad_2018-2020.csv 192.168.113.134 7600 test import.legrad test test
+1583829481401:export C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\legrad-iot.csv 192.168.113.134 7600 test import.legrad test test
+1583838759385:export C:\\\\gatling-w-kafka-test-master\\\\gatling-charts-highcharts-bundle-3.0.3\\\\user-files\\\\resources\\\\test-data.csv 192.168.113.134 7600 test import.test_data test test
+1586878943123:export features.csv 192.168.113.134 7600 test import.vista test test
+1586954695919:call
+1586955415976:seek
+1586957158511:shell
+1586957162143:seek
+1586958462701:seek localhost:29092 find 2020-04-05T11:00:26 2020-04-18T09:51:41 3
+1586958477600:seek localhost:29092 find 2020-04-05T11:00:26 2020-04-18T09:51:41 3 null
+1586958495548:seek localhost:29092 find 2020-04-05T11:00:26 2020-04-18T09:51:41 3 1
+1587465333151:export features.csv 192.168.113.134 7600 test import.vista_features test test
+1587465375812:exit
+1587467808713:export features.csv 192.168.113.134 7600 test import.vista_features test test
+1588016805553:export C:\\\\Users\\\\ihevcuk\\\\Desktop\\\\Projects\\\\TennisCrystalBall\\\\src\\\\main\\\\resources\\\\features.csv 192.168.113.134 7600 test import.vista_features test test
