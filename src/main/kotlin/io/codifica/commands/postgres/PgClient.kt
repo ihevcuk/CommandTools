@@ -1,4 +1,4 @@
-package io.codifica.pgcsvloader
+package io.codifica.commands.postgres
 
 import java.sql.Connection
 import java.sql.DriverManager
